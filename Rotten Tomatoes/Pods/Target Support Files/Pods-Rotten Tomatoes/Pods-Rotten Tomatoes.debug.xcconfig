@@ -1,0 +1,6 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/FontAwesome-iOS" "${PODS_ROOT}/Headers/Public/ODRefreshControl" "${PODS_ROOT}/Headers/Public/SVProgressHUD"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/AFNetworking" -isystem "${PODS_ROOT}/Headers/Public/FontAwesome-iOS" -isystem "${PODS_ROOT}/Headers/Public/ODRefreshControl" -isystem "${PODS_ROOT}/Headers/Public/SVProgressHUD"
+OTHER_LDFLAGS = -ObjC -l"Pods-Rotten Tomatoes-AFNetworking" -l"Pods-Rotten Tomatoes-FontAwesome-iOS" -l"Pods-Rotten Tomatoes-ODRefreshControl" -l"Pods-Rotten Tomatoes-SVProgressHUD" -framework "CoreGraphics" -framework "MobileCoreServices" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods

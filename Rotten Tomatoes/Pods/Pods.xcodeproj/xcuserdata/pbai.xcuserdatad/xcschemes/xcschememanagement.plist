@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Rotten Tomatoes-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Rotten Tomatoes-FontAwesome-iOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Rotten Tomatoes-ODRefreshControl.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Rotten Tomatoes-SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Rotten Tomatoes.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>35151DE33B1910D2D98424B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>530A670FD72A6DBF93DAF2A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82AD9265551ED8206EF1BCE2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>95125E6BB17A96E13E2EC09A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A59E4235A34743C76708E107</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
